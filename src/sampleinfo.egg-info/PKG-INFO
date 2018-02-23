@@ -1,0 +1,32 @@
+Metadata-Version: 1.1
+Name: sampleinfo
+Version: 0.1
+Summary: Basic system information for COMP30670
+Home-page: http://...
+Author: Manjunath Sanjiv Kulkarni
+Author-email: manjunath.kulkarni@ucdconnect.ie
+License: GPL3
+Description-Content-Type: UNKNOWN
+Description: ==========
+        sampleinfo
+        ==========
+        
+        
+        Add a short description here!
+        
+        
+        Description
+        ===========
+        
+        A longer description of your project goes here...
+        
+        
+        Note
+        ====
+        
+        This project has been set up using PyScaffold 3.0.1. For details and usage
+        information on PyScaffold see http://pyscaffold.org/.
+        
+Platform: any
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python
